@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Google_map</string>
+    <string name="enter_place">Lugar</string>
+    <string name="search_place">Buscar</string>
+    <string name="cambiar_tipo_de_mapa">Cambiar a otro tipo de mapa</string>
+    <string name="google_maps_key">AIzaSyD5u8wfWFspxvsvRo47gSU1tem2h0ssXBA</string>
+</resources>
